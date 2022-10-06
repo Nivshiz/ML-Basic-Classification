@@ -1,6 +1,6 @@
 # ML-Basic-Classification
 
-This repository contains an assignment given in a Machine Learning course during my studies.
+This repository contains an assignment given in a Machine Learning course during my degree studies.
 The purpose of the assignment was to compare several classic classification models using **Scikit-learn** library.
 The models i used for this comparison are:
 
